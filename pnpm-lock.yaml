@@ -1,0 +1,29 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .: {}
+
+  nodejs/kaspa: {}
+
+  nodejs/kaspa-dev: {}
+
+  web/kaspa: {}
+
+  web/kaspa-core: {}
+
+  web/kaspa-core-dev: {}
+
+  web/kaspa-dev: {}
+
+  web/kaspa-keygen: {}
+
+  web/kaspa-keygen-dev: {}
+
+  web/kaspa-rpc: {}
+
+  web/kaspa-rpc-dev: {}

@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "examples": "npx http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

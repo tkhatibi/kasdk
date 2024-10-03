@@ -4,8 +4,8 @@
   "collaborators": [
     "Kaspa developers"
   ],
-  "description": "KASPA WASM bindings",
-  "version": "0.14.2",
+  "description": "**full** Rusty Kaspa WASM32 SDK bindings for use in web browsers.",
+  "version": "0.15.2",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "types": "kaspa.d.ts",
   "sideEffects": [
     "./snippets/*"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }

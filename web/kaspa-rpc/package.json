@@ -4,8 +4,8 @@
   "collaborators": [
     "Kaspa developers"
   ],
-  "description": "KASPA WASM bindings",
-  "version": "0.14.2",
+  "description": "Rusty Kaspa WASM32 SDK Bindings for RPC",
+  "version": "0.15.2",
   "license": "ISC",
   "repository": {
     "type": "git",

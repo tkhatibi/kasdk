@@ -2,6 +2,8 @@
 
 The core team at `Rusty Kaspa` is often too busy to regularly publish npm packages. To address this, I download the [last release](https://github.com/kaspanet/rusty-kaspa/releases) and publish updated versions under the `@kasdk/*` package namespace.
 
+Currently, the README in each package is identical, even though each serves a different purpose. I plan to document them individually in the future, but contributions to help with this are more than welcome.
+
 # NPM Packages
 
 - [@kasdk/nodejs](https://www.npmjs.com/package/@kasdk/nodejs)

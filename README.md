@@ -16,7 +16,7 @@ Currently, the README in each package is identical, even though each serves a di
 
 - [@kasdk/web-core](https://www.npmjs.com/package/@kasdk/web-core)
 
-# How to publish new versions? (Personal Not 😏)
+# How to publish new versions? (Personal Note 😏)
 
 - Download latest version from `https://github.com/kaspanet/rusty-kaspa/releases`
 
